@@ -2,7 +2,7 @@
  
 **Contact Information:**
  
-Phone: +38 (097) 510-17-89
+Phone: +38 (097) 510-17-89\
 e-mail: irinaselen1@gmail.com
  
 **purpose:** become a front-end developer, gain new knowledge, gain experience
@@ -28,7 +28,7 @@ e-mail: irinaselen1@gmail.com
 - 1994-1998 - International Slavic University, manager of the socio-cultural sphere
 - 1987-1993 - Kharkov Polytechnic Institute, electronic engineer 
  
-*Personal data*
+*Personal data*\
 Date of birth: May 30, 1970. 
  
 *Additional information:*
